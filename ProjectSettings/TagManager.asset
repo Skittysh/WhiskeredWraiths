@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Main Camera
+  - coin
+  - heal
+  - adBuff
+  - msBuff
+  - ProjectileDash
+  - UITag
+  - DoubleBomba
+  - Enemy
+  - EnBulleter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - wallsLayer
+  - Water
+  - UI
+  - enemyLayer
+  - bulletenemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1789236393
+    locked: 0
+  - name: walls
+    uniqueID: 699203073
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1005550739
+    locked: 0
+  - name: HeroStats
+    uniqueID: 690804205
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 699203073
+    locked: 0
